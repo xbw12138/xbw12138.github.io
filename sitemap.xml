@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.ecfun.cc/tags/index.html</loc>
+    
+    <lastmod>2017-09-30T08:11:15.361Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.ecfun.cc/categories/index.html</loc>
+    
+    <lastmod>2017-09-30T08:11:02.461Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.ecfun.cc/2017/09/30/hello-world/</loc>
     
     <lastmod>2017-09-30T07:28:21.244Z</lastmod>
