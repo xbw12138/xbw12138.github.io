@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.ecfun.cc/"/>
-  <updated>2017-09-30T09:21:28.376Z</updated>
+  <updated>2017-09-30T09:24:42.018Z</updated>
   <id>http://blog.ecfun.cc/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.ecfun.cc/2017/09/30/hello-world/"/>
     <id>http://blog.ecfun.cc/2017/09/30/hello-world/</id>
     <published>2017-09-30T07:28:21.241Z</published>
-    <updated>2017-09-30T09:21:28.376Z</updated>
+    <updated>2017-09-30T09:24:42.018Z</updated>
     
     <content type="html"><![CDATA[<p>Wordpress翻车了，两年的腾讯云1元服务器说没就没了，还有一年毕业，腾讯云说我已经不是学生不给发放优惠券了，所以才搬家到Hexo。</p><p>Hello Hexo，I’m coming!!!!<br><a id="more"></a></p>]]></content>
     
@@ -32,12 +32,10 @@
     
     </summary>
     
-      <category term="chat" scheme="http://blog.ecfun.cc/categories/chat/"/>
+      <category term="心情" scheme="http://blog.ecfun.cc/categories/%E5%BF%83%E6%83%85/"/>
     
     
-      <category term="tag1" scheme="http://blog.ecfun.cc/tags/tag1/"/>
-    
-      <category term="tag2" scheme="http://blog.ecfun.cc/tags/tag2/"/>
+      <category term="心情" scheme="http://blog.ecfun.cc/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
